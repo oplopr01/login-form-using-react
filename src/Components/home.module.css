@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+#navbar{
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#navbar > a{
+    color: aqua;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+#formContainer{
+    height: 30vh;
+    width: 50%;
+    background-color: rgb(186, 145, 224);
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 10vh;
+    text-align: center;
+    padding: 10%;
+    padding-left: 0px;
+    line-height: 1.5em;
+}
+

@@ -1,0 +1,38 @@
+{
+  "employyes": [
+    {
+      "id": "1",
+      "name": "laklh"
+    },
+    {
+      "id": "8257",
+      "empName": "AD",
+      "empSalary": "0654",
+      "empCompany": "SD"
+    },
+    {
+      "id": "5588",
+      "empName": "as",
+      "empSalary": "0ss",
+      "empCompany": "a"
+    },
+    {
+      "id": "07bd",
+      "empName": "as",
+      "empSalary": "0q13",
+      "empCompany": "sadas"
+    },
+    {
+      "id": "9967",
+      "empName": "sss",
+      "empSalary": "02",
+      "empCompany": "ed"
+    },
+    {
+      "id": "6248",
+      "empName": "rahul",
+      "empSalary": "600",
+      "empCompany": "jio"
+    }
+  ]
+}
